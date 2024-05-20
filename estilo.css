@@ -1,0 +1,28 @@
+.titulo1{
+    color: lightseagreen;
+    font-size: 40px;
+    text-align: center;
+}
+.titulo2{
+    padding: 5px;
+    border-top: 2px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.caja1{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    background-color: lightgrey;
+}
+.caja2{
+    display: flex;
+    flex-direction: row;
+
+}
+.imagen{
+    border: 2px solid black;
+    border-radius: 100%;
+}
