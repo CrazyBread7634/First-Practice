@@ -12,7 +12,7 @@
 }
 .caja1{
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 25px;
     padding: 10px;
     margin: 20px;
     background-color: lightgrey;
@@ -25,4 +25,20 @@
 .imagen{
     border: 2px solid black;
     border-radius: 100%;
+    width: 60px;
+    height: 60px;
+}
+.caja3{
+    width: 60%;
+    margin: 10px;
+    margin-left: 40px;
+}
+.footer{
+    margin: 30px;
+}
+.header{
+    margin: 30px;
+}
+.caja4{
+
 }
